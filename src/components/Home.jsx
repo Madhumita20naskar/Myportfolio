@@ -22,7 +22,7 @@ const Home = () => {
             </p>
 
             <div className="action__btns ">
-              <a href="MADHUMITA NASKAR RESUME.pdf">
+              <a href="Madhumita Naskar Resume.pdf">
                 <button className="portfolio dark:text-white">Resume</button>
               </a>
             </div>
